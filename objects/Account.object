@@ -136,6 +136,14 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>New_Checkbox_2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>New Checkbox 2</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>New_Checkbox__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
